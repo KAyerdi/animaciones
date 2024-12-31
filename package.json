@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-spring/core": "^9.7.5",
     "@react-three/drei": "^9.120.5",
     "@react-three/fiber": "^8.17.10",
     "@types/react-router-dom": "^5.3.3",

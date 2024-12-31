@@ -13,11 +13,11 @@ const HomePage: React.FC = () => {
               </p>
             </div>
             <h1 className="text-4xl sm:text-7xl font-bold text-white tracking-tight">
-              SAGAR
+              Kevin Ayerdi
             </h1>
           </div>
           <p className="text-lg sm:text-2xl text-gray-300 font-light max-w-2xl">
-            Welcome to my creative corner where I explore and experiment with
+          Welcome to the creative corner where I explore and experiment with
             <span className="relative inline-block px-2">
               <span className="relative z-10 font-medium text-[#E94560]">
                 ThreeJS
@@ -30,7 +30,7 @@ const HomePage: React.FC = () => {
         {/* Navigation Links - Modified for mobile responsiveness */}
         <div className="flex justify-center mt-12 sm:mt-0 sm:absolute sm:top-8 sm:right-8 sm:justify-end space-x-6">
           <a
-            href="https://twitter.com/sarlloc"
+            href="https://x.com/Ayerdikevin"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm text-[#E94560] hover:text-white transition-colors duration-300"
@@ -38,20 +38,12 @@ const HomePage: React.FC = () => {
             Twitter
           </a>
           <a
-            href="https://github.com/zoyron/sketches"
+            href="https://github.com/KAyerdi/animaciones"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm text-[#E94560] hover:text-white transition-colors duration-300"
           >
             GitHub
-          </a>
-          <a
-            href="https://buymeacoffee.com/sarlloc"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-sm text-[#E94560] hover:text-white transition-colors duration-300"
-          >
-            Buy me a coffee
           </a>
         </div>
       </div>
